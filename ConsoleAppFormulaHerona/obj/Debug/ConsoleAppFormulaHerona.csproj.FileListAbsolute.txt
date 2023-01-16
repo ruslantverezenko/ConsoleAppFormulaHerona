@@ -1,0 +1,7 @@
+C:\Users\Q\source\repos\ConsoleAppFormulaHerona\ConsoleAppFormulaHerona\bin\Debug\ConsoleAppFormulaHerona.exe.config
+C:\Users\Q\source\repos\ConsoleAppFormulaHerona\ConsoleAppFormulaHerona\bin\Debug\ConsoleAppFormulaHerona.exe
+C:\Users\Q\source\repos\ConsoleAppFormulaHerona\ConsoleAppFormulaHerona\bin\Debug\ConsoleAppFormulaHerona.pdb
+C:\Users\Q\source\repos\ConsoleAppFormulaHerona\ConsoleAppFormulaHerona\obj\Debug\ConsoleAppFormulaHerona.csprojAssemblyReference.cache
+C:\Users\Q\source\repos\ConsoleAppFormulaHerona\ConsoleAppFormulaHerona\obj\Debug\ConsoleAppFormulaHerona.csproj.CoreCompileInputs.cache
+C:\Users\Q\source\repos\ConsoleAppFormulaHerona\ConsoleAppFormulaHerona\obj\Debug\ConsoleAppFormulaHerona.exe
+C:\Users\Q\source\repos\ConsoleAppFormulaHerona\ConsoleAppFormulaHerona\obj\Debug\ConsoleAppFormulaHerona.pdb
