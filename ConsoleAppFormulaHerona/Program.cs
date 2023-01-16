@@ -17,13 +17,13 @@ namespace ConsoleAppFormulaHerona
         */
 
             Console.Write("Длина первой из трёх сторон: ");
-            int a = Convert.ToInt32(Console.ReadLine());
+            double a = double.Pars(Console.ReadLine());
             Console.Write("Длина второй из трёх сторон: ");
-            int b = Convert.ToInt32(Console.ReadLine());
+            double b = Convert.double.Pars(Console.ReadLine());
             Console.Write("Длина третьей из трёх сторон: ");
-            int c = Convert.ToInt32(Console.ReadLine());
-            var p = (a + b + c) * 0.5;
-            var s = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
+            double c = Convert.double.Pars(Console.ReadLine());
+            double p = (a + b + c) / 2;
+            double s = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
             Console.WriteLine($"Площадь треугольника: {s}");
             Console.ReadLine();
         }
