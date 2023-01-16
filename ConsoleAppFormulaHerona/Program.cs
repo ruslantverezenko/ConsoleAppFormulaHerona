@@ -17,11 +17,11 @@ namespace ConsoleAppFormulaHerona
         */
 
             Console.Write("Длина первой из трёх сторон: ");
-            double a = double.Pars(Console.ReadLine());
+            double a = double.Parse(Console.ReadLine());
             Console.Write("Длина второй из трёх сторон: ");
-            double b = Convert.double.Pars(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
             Console.Write("Длина третьей из трёх сторон: ");
-            double c = Convert.double.Pars(Console.ReadLine());
+            double c = double.Parse(Console.ReadLine());
             double p = (a + b + c) / 2;
             double s = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
             Console.WriteLine($"Площадь треугольника: {s}");
